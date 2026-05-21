@@ -177,6 +177,7 @@ const PROJECT_DATA = [
   ['Day 139', 'Ludo game', './public/Ludo-game/index.html', 'Html css javascript', 'intermediate'],
 ['Day 140', 'Big Sales Prediction',
  'https://github.com/dhairyagothi/100_days_100_web_project/tree/Main/public/BigSales-Prediction', 'machine learning python javascript', 'advanced'],
+  ['Day 141', 'car racing game', './public/car racing game/index.html', 'Html css javascript', 'intermediate']
 
 ];
 // Alias for consistency
